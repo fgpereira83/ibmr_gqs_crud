@@ -6,8 +6,8 @@ import Repository.RepositoryPessoaJuridica;
 public class Teste {
 
 	public static void main(String[] args) {
-		testaPF();
-		//testaPJ();
+		//testaPF();
+		testaPJ();
 
 	}
 
